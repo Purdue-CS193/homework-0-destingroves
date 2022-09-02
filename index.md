@@ -1,7 +1,7 @@
 # Destin Groves' First CS193 Homework
--I was sick yesterday so I've only been to one class sorry
--uhhh
--the mitochondria is the powerhouse of the cell
+- I was sick yesterday so I've only been to one class sorry
+- uhhh
+- the mitochondria is the powerhouse of the cell
 
 
 stuff below
